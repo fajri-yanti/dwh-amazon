@@ -8,6 +8,9 @@ This project aims to optimize the extraction, transformation, and analysis of tr
 - BigQuery: Data will be loaded into BigQuery for further analysis and querying.
 - DBT: The transformation layer will be handled by DBT, ensuring that all necessary data transformations (such as cleaning, aggregating, and joining) are performed efficiently and accurately
 
+## Data Source 
+[Amazon Sales Data](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?resource=download)
+
 ## ERD
 ![img](assets/amazon-erd.png)
 
